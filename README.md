@@ -1,4 +1,4 @@
-# restaurantBillingApp
+# Restaurant Billing App
 
 Simple Restaurant Billing App implemented in C
 
